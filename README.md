@@ -2,7 +2,7 @@
 <h2>👨‍💻 Projelerim:</h2>
 
 - <b>Python</b>
-  - [Çoklu Programlara Bitirme Projem](https://github.com/)
+  - [Çoklu Programlara Bitirme Projem](https://github.com/ArmaganDamar/CPROG_araba_zaman_tablosu)
 
  <br>
 <h2>Sosyal Medya Profillerim:</h2>
