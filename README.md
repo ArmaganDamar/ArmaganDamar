@@ -4,6 +4,8 @@
 - <b>Python</b>
   - [Çoklu Programlara Bitirme Projem](https://github.com/ArmaganDamar/CPROG_araba_zaman_tablosu)
 
+  - [BGT Önlisans Bitirme Projem](https://github.com/ArmaganDamar/CPROG_araba_zaman_tablosu)
+
  <br>
 <h2>Sosyal Medya Profillerim:</h2>
  www.instagram.com/armagan.damar/ <br>
