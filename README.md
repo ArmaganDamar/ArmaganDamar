@@ -8,6 +8,6 @@
 
  <br>
 <h2>Sosyal Medya Profillerim:</h2>
- www.instagram.com/armagan.damar/ <br>
+
  www.linkedin.com/in/armağandamar 
 
