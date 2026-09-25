@@ -4,8 +4,9 @@
 - <b>Python</b>
   - [Çoklu Programlara Bitirme Projem](https://github.com/ArmaganDamar/CPROG_araba_zaman_tablosu)
 
-  - [BGT Önlisans Bitirme Projem](https://github.com/ArmaganDamar/BGT-Bitirme-Projesi)
+  - [Bilişim Güvenliği Teknolojileri Bitirme Projem](https://github.com/ArmaganDamar/BGT-Bitirme-Projesi)
 
+  - [Linux Network Security Lab](https://github.com/ArmaganDamar/linux-network-security-lab)
  <br>
 <h2>Sosyal Medya Profillerim:</h2>
 
